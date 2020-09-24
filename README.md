@@ -1,21 +1,5 @@
 # Slack clone
-
-<<<<<<<<<<<<<<<<<<<<<<<<team 1>>>>>>>>>>>>>>>>>>>>>>>>
-
-Harika - (frontend) worked on login,register,firebase,filemodal and message
-Saikiran - (frontend) worked on messageforms, messages, message Header and progress bar
-Thomson - (frontend) worked on sidepanel,channels,direct messages,starred and user pannel
-
-
-# Learning competencies:
-
-At the end of this milestone you will learn
-
-- Building desktop application using Electron
-- Understanding websockets to build a chat application
-- Integrating an electron app with the Backend.
-
-Lets build a replica of messenger app **Slack** on MERN stack
+Building a replica of messenger app **Slack** on MERN stack
 
 ## Release 0: What is slack?
 
